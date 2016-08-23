@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.40629.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LahmanDataAccessModel", "LahmanDataAccessModel\LahmanDataAccessModel.csproj", "{C50145E6-A244-4F1F-B41F-90D1925B4A00}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lahman", "Lahman\Lahman.csproj", "{C603DDBF-120C-4C55-BAC8-B8A61D38431B}"
+EndProject
+Global
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 3
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://davidem.visualstudio.com/defaultcollection
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = LahmanDataAccessModel\\LahmanDataAccessModel.csproj
+		SccProjectName1 = ../../../APISA\u0020PANDAS/WebProxyRead/LahmanDataAccessModel/LahmanDataAccessModel
+		SccLocalPath1 = LahmanDataAccessModel
+		SccProjectUniqueName2 = Lahman\\Lahman.csproj
+		SccProjectName2 = ../../../APISA\u0020PANDAS/WebProxyRead/LahmanDataAccessModel/Lahman
+		SccLocalPath2 = Lahman
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C50145E6-A244-4F1F-B41F-90D1925B4A00}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C50145E6-A244-4F1F-B41F-90D1925B4A00}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C50145E6-A244-4F1F-B41F-90D1925B4A00}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C50145E6-A244-4F1F-B41F-90D1925B4A00}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C603DDBF-120C-4C55-BAC8-B8A61D38431B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C603DDBF-120C-4C55-BAC8-B8A61D38431B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C603DDBF-120C-4C55-BAC8-B8A61D38431B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C603DDBF-120C-4C55-BAC8-B8A61D38431B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

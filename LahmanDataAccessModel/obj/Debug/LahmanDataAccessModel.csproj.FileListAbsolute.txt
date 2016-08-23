@@ -1,0 +1,7 @@
+C:\sources\LahmanDataAccessModel\LahmanDataAccessModel\bin\Debug\LahmanDataAccessModel.dll.config
+C:\sources\LahmanDataAccessModel\LahmanDataAccessModel\bin\Debug\LahmanDataAccessModel.dll
+C:\sources\LahmanDataAccessModel\LahmanDataAccessModel\bin\Debug\LahmanDataAccessModel.pdb
+C:\sources\LahmanDataAccessModel\LahmanDataAccessModel\bin\Debug\Telerik.OpenAccess.35.Extensions.dll
+C:\sources\LahmanDataAccessModel\LahmanDataAccessModel\bin\Debug\Telerik.OpenAccess.35.Extensions.xml
+C:\sources\LahmanDataAccessModel\LahmanDataAccessModel\obj\Debug\LahmanDataAccessModel.dll
+C:\sources\LahmanDataAccessModel\LahmanDataAccessModel\obj\Debug\LahmanDataAccessModel.pdb
